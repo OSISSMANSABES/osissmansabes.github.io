@@ -8,9 +8,7 @@
 
 .jumbotron {
   padding-top: 6rem;
-  background-image: url(img/bg1.jpeg);
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: #154c79;
 }
 
 #About {
