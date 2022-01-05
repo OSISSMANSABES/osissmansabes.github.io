@@ -1,9 +1,5 @@
 .navbar {
-  background-color: rgba(83, 73, 175, 0.15);
-}
-.navbar {
-  background-color: rgba(83, 73, 175, 0.15);
-  backdrop-filter: blur(15px);
+  background-color: #154c79;
 }
 
 .jumbotron {
