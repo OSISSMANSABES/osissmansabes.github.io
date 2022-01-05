@@ -1,0 +1,39 @@
+.navbar {
+  background-color: rgba(83, 73, 175, 0.15);
+}
+.navbar {
+  background-color: rgba(83, 73, 175, 0.15);
+  backdrop-filter: blur(15px);
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-image: url(img/bg1.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#About {
+  background-color: #ffffff;
+  text-decoration: none;
+}
+
+#menu {
+  background-color: #154c79;
+}
+
+#contact {
+  background-color: #ffffff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+section a {
+  text-decoration: none;
+}
+
+jumbotron text-center a {
+  text-decoration: none;
+}
